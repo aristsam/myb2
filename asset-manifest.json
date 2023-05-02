@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aristsam.github.io/myb2/static/css/main.50933e36.css",
+    "main.js": "/aristsam.github.io/myb2/static/js/main.289c1bad.js",
+    "static/js/787.99d812bf.chunk.js": "/aristsam.github.io/myb2/static/js/787.99d812bf.chunk.js",
+    "index.html": "/aristsam.github.io/myb2/index.html",
+    "main.50933e36.css.map": "/aristsam.github.io/myb2/static/css/main.50933e36.css.map",
+    "main.289c1bad.js.map": "/aristsam.github.io/myb2/static/js/main.289c1bad.js.map",
+    "787.99d812bf.chunk.js.map": "/aristsam.github.io/myb2/static/js/787.99d812bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50933e36.css",
+    "static/js/main.289c1bad.js"
+  ]
+}
